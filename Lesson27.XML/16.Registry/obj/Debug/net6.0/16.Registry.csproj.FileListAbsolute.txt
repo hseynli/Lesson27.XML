@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\bin\Debug\net6.0\16.Registry.exe
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\bin\Debug\net6.0\16.Registry.deps.json
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\bin\Debug\net6.0\16.Registry.runtimeconfig.json
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\bin\Debug\net6.0\16.Registry.dll
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\bin\Debug\net6.0\16.Registry.pdb
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.dll
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\refint\16.Registry.dll
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.pdb
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\16.Registry.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson27.XML\16.Registry\obj\Debug\net6.0\ref\16.Registry.dll

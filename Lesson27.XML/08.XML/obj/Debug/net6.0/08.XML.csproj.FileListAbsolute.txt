@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson27.XML\08.XML\bin\Debug\net6.0\08.XML.exe
+D:\Projects\VS Projects\Lesson27.XML\08.XML\bin\Debug\net6.0\08.XML.deps.json
+D:\Projects\VS Projects\Lesson27.XML\08.XML\bin\Debug\net6.0\08.XML.runtimeconfig.json
+D:\Projects\VS Projects\Lesson27.XML\08.XML\bin\Debug\net6.0\08.XML.dll
+D:\Projects\VS Projects\Lesson27.XML\08.XML\bin\Debug\net6.0\08.XML.pdb
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.dll
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\refint\08.XML.dll
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.pdb
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\08.XML.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson27.XML\08.XML\obj\Debug\net6.0\ref\08.XML.dll

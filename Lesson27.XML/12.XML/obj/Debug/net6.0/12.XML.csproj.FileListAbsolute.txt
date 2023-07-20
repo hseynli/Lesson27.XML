@@ -1,0 +1,16 @@
+D:\Projects\VS Projects\Lesson27.XML\12.XML\bin\Debug\net6.0\12.XML.exe
+D:\Projects\VS Projects\Lesson27.XML\12.XML\bin\Debug\net6.0\books.xml
+D:\Projects\VS Projects\Lesson27.XML\12.XML\bin\Debug\net6.0\12.XML.deps.json
+D:\Projects\VS Projects\Lesson27.XML\12.XML\bin\Debug\net6.0\12.XML.runtimeconfig.json
+D:\Projects\VS Projects\Lesson27.XML\12.XML\bin\Debug\net6.0\12.XML.dll
+D:\Projects\VS Projects\Lesson27.XML\12.XML\bin\Debug\net6.0\12.XML.pdb
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.dll
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\refint\12.XML.dll
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.pdb
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\12.XML.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson27.XML\12.XML\obj\Debug\net6.0\ref\12.XML.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCLY9CPnKiM3Db778OVWsL3bobza0ZNhEDR/1OUz4z9qhzux+m4rq1yApKFaFoujJ8f1K5/JKVFH3jP6qW7yGg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson27.XML\\15.Configuration\\15.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
